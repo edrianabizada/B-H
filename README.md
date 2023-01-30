@@ -10,12 +10,12 @@ $ pkg update && pkg upgrade
 $ pkg install python
 $ pip install mechanize requests bs4
 $ pkg install git
-$ git clone https://github.com/edrianabizada/B-H-RNDM.git
+$ git clone https://github.com/edrianabizada/B-H.git
 ```
 #### RUN SCRIPT
 ```python
-$ cd B-H-RNDM
-$ python B-H-E-N.py
+$ cd B-H
+$ python B-H.py
 ```
 
 #### JOIN TELEGRAM GROUP <br>
